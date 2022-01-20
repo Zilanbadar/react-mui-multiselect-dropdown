@@ -21,7 +21,7 @@ import classNames from 'classnames'
 
 const useStyles = makeStyles((theme) => ({
   selectedItemsWrapper: {
-    display: 'flex',
+    display: 'none',
     flex: 1,
     flexWrap: 'wrap'
   },
